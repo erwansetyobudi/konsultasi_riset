@@ -21,6 +21,10 @@ Plugin untuk mencatat layanan konsultasi riset perpustakaan dan membuat laporan 
 3. Jalankan migrasi plugin jika diminta SLiMS.
 4. Menu **Konsultasi Riset** tersedia pada System dan **Laporan Konsultasi Riset** pada Reporting.
 
+## Tampilan
+<img width="1347" height="596" alt="image" src="https://github.com/user-attachments/assets/1ae690bc-506c-41e9-a6b4-e57146a5c6a8" />
+
+
 ## Database
 Plugin membuat tabel `research_consultations`. Data anggota tetap mengambil tabel bawaan SLiMS `member`; plugin menyimpan snapshot ID, nama, dan instansi/prodi saat konsultasi dicatat.
 
